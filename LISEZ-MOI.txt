@@ -1,0 +1,60 @@
+                                             Download Manager v1.00
+
+Auteur : Daniel Fabien
+Url    : http://www.script-masters.com/
+	 Script Masters
+	 Des dizaines de ressources javascripts et Php pour dynamiser votre site.
+Email  : webmaster@script-masters.com
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+- PRINCIPE
+
+	Download Manager a été conçu dans le but de protéger vos fichiers dédiés au téléchargement. 
+	Les sites ne pourront plus vous volez les liens vers les fichiers présent sur votre espace.
+
+	Par ailleur, chaque téléchargement est comptabilisé, et vous pouvez affiché le nombre de clics.
+
+- CONFIGURATION
+
+	- Environ 100ko d'espace chez votre hebergeur (dépend du nombre de liens que vous enregistrez)
+	- Serveur supportant Php
+
+- INSTALLATION
+
+	1/ Décompressez le fichier downloadmanager.zip et télécharger via votre client ftp sur votre site
+	2/ Pointez votre navigateur sur le fichier index.php3
+	3/ Suivez les étapes, l'installation est automatique
+	4/ Pour rejoindre votre espace administrateur, pointeez vers admin.php3
+
+	NOTE : Si vous égarez votre login ou votre mot de passe télécharger le ficher conf.php3 accessible uniquement via ftp
+
+- ADMINISTRATION
+
+	1/ Ajout de fichier
+
+		Entrez simplement l'url ou se trouve votre fichier ainsi que son nom
+		Pour connaitre l'url à pointer, cliquez sur 'Listing'
+		Pour afficher le nombre de clics, récuppérez le code dans la section 'Affiché le nombre de clics'
+
+	2/ Listing
+
+		Vous affiche l'id, la date, le nom, l'adresse à utilisez pour le téléchargement ainsi que le nombre de clics
+		Utilisez toujours l'url fournit par le programme pour vos téléchargement
+
+	3/ Affiché le nombre de clics
+
+		Vous donne le code pour affiché le nombre de clics
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Ce script est distribué gratuitement.
+L'auteur n'est pas responsable de l'utilisation qui en sera faite.
+
+Pour être tenu au courant des mises à jour, abonnez vous à la newsletter de Script Masters (http://www.script-masters.com/)
+
+                                       
+
+                                       ---------------------------------------
+                                       | Daniel Fabien © Script Masters 2002 |
+                                       ---------------------------------------
